@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Class-Path: junit-4.12-20130114.213738-7.jar hamcrest-core-1.3.jar ojd
+ bc6-11.2.0.jar joda-convert-1.3.1.jar javaee-api-7.0.jar mysql-connec
+ tor-java-5.1.25.jar snakeyaml-1.13-20130514.180037-6.jar tomcat-api-7
+ .0.41.jar javax.mail-1.5.0.jar activation-1.1.jar joda-time-2.2.jar t
+ omcat-servlet-api-7.0.41.jar
+
